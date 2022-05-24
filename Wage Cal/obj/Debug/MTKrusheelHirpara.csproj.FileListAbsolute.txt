@@ -1,0 +1,44 @@
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.pdb
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csprojResolveAssemblyReference.cache
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.g.cs
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\App.g.cs
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.cache
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.lref
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.baml
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.g.resources
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.Properties.Resources.resources
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.GenerateResource.Cache
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.exe
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.pdb
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe.config
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.pdb
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.cache
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.lref
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.g.resources
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.Properties.Resources.resources
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.exe
+C:\Users\HP\Downloads\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.pdb
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe.config
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.exe
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\bin\Debug\MTKrusheelHirpara.pdb
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.AssemblyReference.cache
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.g.cs
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\App.g.cs
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.cache
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara_MarkupCompile.lref
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MainWindow.baml
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.g.resources
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.Properties.Resources.resources
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.GenerateResource.cache
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.csproj.CoreCompileInputs.cache
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.exe
+D:\25-02-2022\MTKrusheelHirpara\MTKrusheelHirpara\MTKrusheelHirpara\obj\Debug\MTKrusheelHirpara.pdb
